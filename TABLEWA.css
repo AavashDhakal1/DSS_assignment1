@@ -1,0 +1,11 @@
+body{color:indigo;
+    background-image: linear-gradient(-90deg, lightgreen,cornflowerBlue);
+}
+body:hover{background-image: linear-gradient(-90deg,cornflowerBlue,lightgreen);
+}
+th{color:maroon;
+    font-family: verdana;
+}
+table{background: linear-gradient(white,silver);
+
+}

@@ -1,0 +1,15 @@
+h1{color:black;  
+    font-family: ALGERIAN;
+}
+
+body{color: yellow;;
+    font-family: comic sans ms;
+    background-image: linear-gradient(-90deg, yellow, red);
+}
+body:hover{color:red;  
+    background-image: linear-gradient(-90deg, red,yellow);
+}
+
+ 
+
+
